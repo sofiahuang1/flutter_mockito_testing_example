@@ -24,7 +24,7 @@ Before you start, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sofiahuang1/flutter_testing_example.git
+   git clone https://github.com/sofiahuang1/flutter_mockito_testing_example.git
 
 
 
